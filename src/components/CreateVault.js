@@ -22,7 +22,6 @@ const CreateVault = () => {
             name='close'
             backgroundColor='transparent'
             color='black'
-            activeOpacity={0.2}
           ></Icon.Button>
         </TouchableWithoutFeedback>
         <FormVault style={styles.form}/>
